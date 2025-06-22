@@ -49,7 +49,7 @@ This project aims to forecast daily prices of agricultural and vegetable commodi
 
 ## 📂 Folder Structure
 
-`''bash
+'''bash
 ├── data/                   # Raw and processed dataset
 ├── notebooks/              # Jupyter notebooks for EDA and modeling
 ├── models/                 # Saved models (optional)
